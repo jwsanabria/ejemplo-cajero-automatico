@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+    <feature automatic="selected" name="ejemplocajeroautomatico"/>
+    <feature automatic="selected" name="CajeroBasico"/>
+    <feature automatic="selected" name="ConsultarSaldo"/>
+    <feature automatic="selected" name="Retiro"/>
+    <feature automatic="selected" name="ListarOperaciones"/>
+    <feature manual="selected" name="CajeroDeposito"/>
+    <feature automatic="selected" name="Transferencias"/>
+    <feature automatic="selected" name="Consignaciones"/>
+    <feature manual="selected" name="SaldoReducido"/>
+</configuration>
